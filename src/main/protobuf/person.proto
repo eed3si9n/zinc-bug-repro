@@ -1,0 +1,7 @@
+package tutorial;
+
+option java_package = "com.example.tutorial";
+
+message Person {
+  optional string name = 1;
+}
